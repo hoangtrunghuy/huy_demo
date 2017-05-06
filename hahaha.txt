@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-huy dep trai
-
-vi vay em ha xinh gai yeu anh huy dep trai
-=======
-huy dep trai yeu ha xinh gai
-ha cute
->>>>>>> parent of 73b94c1... huy up e yeu
